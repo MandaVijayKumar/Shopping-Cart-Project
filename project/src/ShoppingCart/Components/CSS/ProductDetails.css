@@ -1,0 +1,28 @@
+.image-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: honeydew;
+    
+   
+   
+}
+.details-part {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color: honeydew;
+   
+}
+.image-part img {
+    box-shadow: 0px 0px 10px gray;
+}
+#addcart-container {
+    max-height: 400px;
+   
+    overflow: auto;
+    background-color: rgb(180, 240, 140);
+}
