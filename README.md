@@ -10,7 +10,7 @@ This Project is a Simple Shopping Cart Project which demonstrates the following
               -> ShoppinCart directory which contains
                     a)Component directory (ShoppingApp.js, ProductList.js, ProductDetials.js, AddCart.js, Navbar.js)
                     b)ReduxState directory (Store.js, Actions.js, Actiontypes.js, ProductReducer.js, AddcartActions.js, AddcartActionTypes.js                               AddCartReducer.js)
-                    c)Router diectory ( ShoppingRouter.js
+                    c)Router diectory ( ShoppingRouter.js)
               
 pakages:
         react,axios,react-router-dom,redux,react-redux,react-logger,react-thunk
